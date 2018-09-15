@@ -1,3 +1,3 @@
 # Redis LOLWUT Performance Benchmark
 
-![Plot](https://plot.ly/~itamarhaber/6/) 
+[![Plot](image.png)](https://plot.ly/~itamarhaber/6/) 
